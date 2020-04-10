@@ -1,4 +1,4 @@
-const apiId = '...' // I could't deploy the project so i have not a api id
+const apiId = '0juj2gk6rf'
 export const apiEndpoint = `https://${apiId}.execute-api.us-east-1.amazonaws.com/dev`
 
 export const authConfig = {
